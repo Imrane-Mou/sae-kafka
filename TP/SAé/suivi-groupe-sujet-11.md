@@ -1,0 +1,62 @@
+# Suivi du groupe — Sujet 11 : Mise à jour sans interruption
+
+## Étudiants
+
+- ALLILI Ayoub
+- BELMOUDEN Saad
+- Zakaria taoussi
+- ibrahim EL HAOURARI
+
+## Sujet
+
+Mise à jour sans interruption du pipeline (intitulé du sujet 11 dans le tableau d’affectation).
+
+## Séances
+
+### 2 novembre — matin
+
+Travail réalisé : Choix du sujet par le groupe et découverte du sujet.
+
+Décisions et questions :
+
+Prochaines étapes :
+
+### 4 novembre — matin
+
+Travail réalisé : Ayoub, Saad présents, Taoussi et Ibrahim absents
+
+Décisions et questions :
+
+Prochaines étapes : présentation de l'architecture de l'appli et les éléments sur lesquels vous allez intervenir. Quelles solutions pour ré-introduire le Control-Center de Confluent afin d'avoir des interrogation graphique de KSQLDB ainsi que des schémas logiques.
+
+### 6 novembre — matin
+
+Travail réalisé :
+
+Décisions et questions :
+
+Prochaines étapes :
+
+### 9 novembre — matin
+
+Travail réalisé :
+
+Décisions et questions :
+
+Prochaines étapes :
+
+### 9 novembre — après-midi
+
+Travail réalisé :
+
+Décisions et questions :
+
+Prochaines étapes :
+
+### 13 novembre — matin
+
+Travail réalisé :
+
+Décisions et questions :
+
+Prochaines étapes :
